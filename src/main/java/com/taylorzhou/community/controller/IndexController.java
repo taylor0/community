@@ -6,8 +6,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * Created by taylorzhou 20190818
- */
+* @description index控制类
+* @param null
+* @return 
+**/
 @Controller
 public class IndexController {
     @GetMapping("/")

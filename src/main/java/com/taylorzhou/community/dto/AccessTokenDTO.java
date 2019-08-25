@@ -1,8 +1,6 @@
 package com.taylorzhou.community.dto;
 
-/**
- *
- */
+
 public class AccessTokenDTO {
 
     private String client_id;
